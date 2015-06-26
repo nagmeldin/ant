@@ -6,8 +6,8 @@
 
 3. Create the following subfolders:
     4.1 subfolders <src>  (hosts Hello.java)
-                   <build><classes>    (hosts Hello.class)
-                   <dist>            
+        <build><classes>    (hosts Hello.class)
+       <dist>            
     
 4. To build program (produces Hello.jar at <build><jar>):
       % ant 

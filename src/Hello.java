@@ -3,7 +3,7 @@ public class Hello {
      public static void main(String args[])
       
               {
-                System.out.println ("Hello Ant World");
+                System.out.println ("Hello Ant World")
                /* log.debug("bad things happen!"); */
                }
               }
